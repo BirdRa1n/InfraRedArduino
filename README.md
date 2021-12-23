@@ -4,7 +4,7 @@
 ~~~c++
 
 #include <IRremote.h>
-int RECV_PIN = 30; // porta digiral para receber informações do infra vermelho
+int RECV_PIN = 7; // porta digiral para receber informações do infra vermelho
 IRrecv irrecv(RECV_PIN);
 decode_results results;
 #include <ArduinoJson.h>
