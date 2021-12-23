@@ -1,9 +1,5 @@
 <h1 align="center">INFRA VERMELHO COM ARDUINO</h1>
 <h4>A Biblioteca usada foi a IRremote </h4>
-<blockquote>
-  >oi
-  >oid
-</blockquote>
 
 ~~~c++
 
@@ -172,5 +168,9 @@ void loop()
 }
 ~~~
 <br>
+
+<blockquote>
+  Siga o esquema abaixo 
+</blockquote>
 <img src="exemple.png" alt="Arduino" />
 
