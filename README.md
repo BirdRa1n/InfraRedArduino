@@ -1,12 +1,5 @@
 <h1 align="center">INFRA VERMELHO COM ARDUINO</h1>
-~~~javascript
+* Usei a biblioteca IRremote
+~~~c++
 Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
 ~~~
